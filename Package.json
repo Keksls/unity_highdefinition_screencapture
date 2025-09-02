@@ -1,0 +1,22 @@
+{
+  "name": "com.keksls.hdscreencapture",
+  "version": "0.0.1",
+  "displayName": "High Definition Screen Capture",
+  "description": "",
+  "keywords": [
+    "screenshot",
+    "screencapture",
+    "URP",
+    "HDRP",
+    "HD screenshot",
+    "HD screencapture",
+    "UHD screen",
+    "UDH png"
+  ],
+  "author": {
+    "name": "Keksls",
+    "email": "vrdtmstudio@gmail.com",
+    "url": "https://github.com/Keksls/unity_highdefinition_screencapture"
+  },
+  "type": "library"
+}
